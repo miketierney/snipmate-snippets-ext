@@ -10,8 +10,8 @@ Somewhere useful for you, clone the repo:
 
 For example, it can be stored in your `~/.vim` directory:
 
-  $ cd ~/.vim
-  $ git clone https://github.com/miketierney/snipmate-snippets-ext.git custom_snippets
+    $ cd ~/.vim
+    $ git clone https://github.com/miketierney/snipmate-snippets-ext.git custom_snippets
 
 
 ## Contribution
